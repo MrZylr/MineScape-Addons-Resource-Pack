@@ -1,36 +1,70 @@
-OSRS Resource Pack Installation
+# OSRS Resource Pack Installation
 
-This guide explains how to combine an Old School RuneScape (OSRS) RuneLite Resource Pack with this Minecraft resource pack.
+This resource pack supports importing textures directly from any **RuneLite OSRS Resource Pack**.
 
-Requirements
-Minecraft Java Edition
-RuneLite with an OSRS Resource Pack installed
-This Minecraft resource pack downloaded from GitHub
-Step 1 – Download This Resource Pack
-Go to the GitHub repository.
-Click Code → Download ZIP.
-Save the ZIP file somewhere easy to find.
-Do not extract the ZIP.
-Step 2 – Open Your RuneLite Resource Pack
-Press Win + R.
-Enter the following path:
+Follow the steps below to add your RuneLite resource pack to the Minecraft resource pack.
+
+---
+
+## Step 1 - Download the Resource Pack
+
+1. Open this GitHub repository.
+2. Click **Code** → **Download ZIP**.
+3. Save the ZIP file somewhere convenient.
+4. **Do not extract the ZIP file.**
+
+---
+
+## Step 2 - Open Your RuneLite Resource Pack
+
+1. Press **Win + R**.
+2. Paste the following path:
+
+```text
 %userprofile%\.runelite\resource-packs-repository\0\
-Press Enter.
-Open the folder for the OSRS resource pack you want to use.
-Step 3 – Copy the OSRS Files
-Select all files and folders inside the OSRS resource pack folder.
-Press Ctrl + C (or right-click → Copy).
-Step 4 – Add Them to the Minecraft Resource Pack
-Open the downloaded Minecraft resource pack ZIP (do not extract it).
-Navigate to the following folder inside the ZIP:
-runescape
-Press Ctrl + V (or right-click → Paste) to paste all of the copied files into the runescape folder.
-If prompted, allow Windows to replace or merge existing files.
-Step 5 – Install the Resource Pack
-Move the modified ZIP into your Minecraft resource packs folder:
-%appdata%\.minecraft\resourcepacks
-Launch Minecraft.
-Enable the resource pack from Options → Resource Packs.
-Done!
+```
 
-Your Minecraft resource pack now contains the OSRS assets from your RuneLite resource pack and is ready to use.
+3. Press **Enter**.
+4. Open the folder of the RuneLite resource pack you want to use.
+
+---
+
+## Step 3 - Copy the Resource Pack Files
+
+1. Select **everything** inside the resource pack folder.
+2. Press **Ctrl + C** or right-click and select **Copy**.
+
+---
+
+## Step 4 - Add the Files to the Minecraft Resource Pack
+
+1. Open the downloaded Minecraft resource pack **ZIP**.
+   - **Do not extract it.**
+2. Navigate to the following folder inside the ZIP:
+
+```text
+runescape
+```
+
+3. Paste (**Ctrl + V**) all of the copied files into the `runescape` folder.
+4. If Windows asks whether to replace or merge files, choose **Yes**.
+
+---
+
+## Step 5 - Install the Resource Pack
+
+Move the modified ZIP into your Minecraft resource packs folder:
+
+```text
+%appdata%\.minecraft\resourcepacks
+```
+
+Launch Minecraft, then enable the resource pack from:
+
+**Options** → **Resource Packs**
+
+---
+
+# Finished!
+
+The Minecraft resource pack now contains the textures from your selected RuneLite resource pack and is ready to use.
