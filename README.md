@@ -13,7 +13,7 @@ To have just darkmode chat, download this repository as a .zip by clicking **Cod
 1. Open this GitHub repository.
 2. Click **Code** → **Download ZIP**.
 3. Save the ZIP file somewhere convenient.
-4. **Do not extract the ZIP file.**
+4. **Extract the zip file**
 
 ---
 
@@ -40,9 +40,9 @@ To have just darkmode chat, download this repository as a .zip by clicking **Cod
 
 ## Step 4 - Add the Files to the Minecraft Resource Pack
 
-1. Open the downloaded Minecraft resource pack **ZIP**.
-   - **Do not extract it.**
-2. Navigate to the following folder inside the ZIP:
+1. Open the downloaded Minecraft resource pack.
+   - **The extracted folder**
+2. Navigate to the following folder inside the folder:
 
 ```text
 runescape
@@ -50,6 +50,8 @@ runescape
 
 3. Paste (**Ctrl + V**) all of the copied files into the `runescape` folder.
 4. If Windows asks whether to replace or merge files, choose **Yes**.
+5. Highlight the assets folder and the pack.mcmeta file by clicking both while holding CTRL
+6. Right click and compress to zip file.
 
 ---
 
