@@ -42,7 +42,7 @@ To have just darkmode chat, download this repository as a .zip by clicking **Cod
 
 1. Open the downloaded Minecraft resource pack.
    - **The extracted folder**
-2. Navigate to the following folder inside the folder:
+2. Navigate to the following folder:
 
 ```text
 runescape
