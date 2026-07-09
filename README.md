@@ -4,6 +4,8 @@ This resource pack supports importing textures directly from any **RuneLite OSRS
 
 Follow the steps below to add your RuneLite resource pack to the Minecraft resource pack.
 
+To have just darkmode chat, download this repository as a .zip by clicking **Code** → **Download ZIP**, then add it to your minecraft resource pack folder.
+
 ---
 
 ## Step 1 - Download the Resource Pack
